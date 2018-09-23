@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "epc-kust",
-    "currentPage": "adhoc.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "googlee18d3d8f3663ffdc.html",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
     "siteUrl": "http://epc-kust.com",
